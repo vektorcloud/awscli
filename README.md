@@ -1,6 +1,6 @@
 # awscli
 
-![circleci][circleci]
+[![circleci][circleci]](https://circleci.com/gh/vektorcloud/awscli)
 
 Minimal AWS CLI Docker image
 
